@@ -8,6 +8,7 @@ The escalating complexity of image classification tasks in ecological monitoring
 This repository presents **ViT-LASNet**, a comprehensive framework designed to improve the classification of plankton images from the Plankton Imaging (Pi-10) dataset, specifically in real-time applications. The model integrates cutting-edge image classification architectures, including Vision Transformers (ViT) and BEiT, along with an innovative dynamic Label-Aware Smoothing (LAS) strategy.
 
 Link to the paper: [ViT-LASNet](https://link.springer.com/chapter/10.1007/978-3-031-92387-6_8)
+Link to the weights: [Model weights](https://drive.google.com/drive/folders/130q9PPqs-NGFzyLHuXTAVjt0g2HNlya_)
 
 ## Key Features
 
